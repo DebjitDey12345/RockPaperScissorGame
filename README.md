@@ -2,5 +2,5 @@
 ## Languages Used
 
 - **Html**
-- **Sql**
+- **Css**
 - **Javascript**
